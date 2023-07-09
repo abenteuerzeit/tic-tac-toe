@@ -2,6 +2,18 @@
 
 This is a simple implementation of the classic Tic Tac Toe game in Python. The game is played on a 3x3 grid, and the goal is to get three of your own marks (either 'O') in a row, horizontally, vertically, or diagonally.
 
+## Demo
+
+[Play the game on Replit](https://replit.com/@abenteuerzeit/tic-tac-toe)
+
+- Click on the link
+- Click the play button
+- Enter a number to select a position!
+- ???
+- Win!
+
+https://github.com/abenteuerzeit/tic-tac-toe/assets/98088666/098e5bbf-0c3c-41ad-aab5-78265aea7159
+
 ## Features
 
 - Play against the computer
